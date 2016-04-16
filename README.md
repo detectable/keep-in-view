@@ -12,4 +12,5 @@ Languages/Tools
 - Go
 - Python
 - Angular2
+- Postgresql
 
