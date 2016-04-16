@@ -7,7 +7,7 @@ Tech
 - System simulation
 - Report automation
  
-Languages
+Languages/Tools
 ---------
 - Go
 - Python
